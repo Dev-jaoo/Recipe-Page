@@ -6,7 +6,7 @@ O objetivo foi reproduzir o layout proposto, praticando conceitos de HTML semân
 
 ## 📸 Preview
 
-![Preview do projeto](./assets/images/preview.jpg)
+![Preview do projeto](./preview.jpg)
 
 ## 🚀 Tecnologias utilizadas
 
